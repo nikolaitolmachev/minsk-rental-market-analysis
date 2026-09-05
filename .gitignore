@@ -18,9 +18,6 @@ __pycache__/
 # Collector cache
 .cache/
 
-# Raw data
-data/*.csv
-
 # OS files
 .DS_Store
 Thumbs.db
